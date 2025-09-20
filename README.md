@@ -43,11 +43,6 @@ the egstr structure contains:
 - table: 256-entry function pointer array
 - extmem: 8kb extended memory region
 
-## dependencies
-
-- github.com/carved4/go-wincall for windows api interactions
-- standard go libraries for binary parsing and memory operations
-
 ## usage
 
 ```go
